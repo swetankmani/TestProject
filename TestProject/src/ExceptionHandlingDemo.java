@@ -20,7 +20,7 @@ public class ExceptionHandlingDemo {
 		}
 		finally {
 			
-			System.out.println("I am inside finally");
+			System.out.println("I am inside finally block");
 			
 		}
 		
